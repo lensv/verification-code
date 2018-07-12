@@ -4,7 +4,7 @@ import os
 
 
 #path = os.getcwd()  #项目所在路径
-path = 'F:/project/tensorflow验证码/基于tensorflow的LSTM网络识别验证码/LSTM_captcha-master'
+path = ''   #修改路劲
 
 captcha_path = path + '/train_data1'  #训练集-验证码所在路径
 validation_path = path + '/validation_data1' #验证集-验证码所在路径
