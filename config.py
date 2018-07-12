@@ -32,3 +32,4 @@ layer_num = 2   #网络层数
 iteration = 10000   #训练迭代次数
 
 
+
