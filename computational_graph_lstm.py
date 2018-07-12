@@ -6,6 +6,7 @@ from config import *
 
 
 
+
 def computational_graph_lstm(x, y, batch_size = batch_size):
 
     #weights and biases of appropriate shape to accomplish above task
