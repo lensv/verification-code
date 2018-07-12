@@ -4,11 +4,11 @@ import os
 
 
 #path = os.getcwd()  #项目所在路径
-path = ''   #修改路劲
+path = ''   #修改路径
 
-captcha_path = path + '/train_data1'  #训练集-验证码所在路径
-validation_path = path + '/validation_data1' #验证集-验证码所在路径
-test_data_path = path + '/test_data1'    #测试集-验证码文件存放路径
+captcha_path = path + '/train_data'  #训练集-验证码所在路径
+validation_path = path + '/validation_data' #验证集-验证码所在路径
+test_data_path = path + '/test_data'    #测试集-验证码文件存放路径
 output_path = path + '/result/result.txt'   #测试结果存放路径
 model_path = path + '/model/model.ckpt' #模型存放路径
 
